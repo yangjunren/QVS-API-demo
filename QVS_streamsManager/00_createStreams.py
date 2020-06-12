@@ -37,10 +37,8 @@ def createStreams(access_key, secret_key, namespaceId, body):
 
 
 # 七牛账号 AK、SK
-# access_key = '<access_key>'
-# secret_key = '<secret_key>'
-access_key = "bjtWBQXrcxgo7HWwlC_bgHg81j352_GhgBGZPeOW"
-secret_key = "pCav6rTslxP2SIFg0XJmAw53D9PjWEcuYWVdUqAf"
+access_key = '<access_key>'
+secret_key = '<secret_key>'
 
 # 需要查询的空间ID
 namespaceId = "2xenzw02hisz2"

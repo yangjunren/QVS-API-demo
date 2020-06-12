@@ -89,7 +89,7 @@ streamid = "flow_test"
 """动态模式请求体"""
 # 请求体
 body = {
-    "publishIp": "180.101.136.153",
+    "publishIp": "",
     "playIp": "publishRtmp"
 }
 
